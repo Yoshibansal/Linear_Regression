@@ -1,7 +1,7 @@
 # Linear_Regression
 Regression searches for relationships among variables
 
-Regression analysis attempts to predict one dependent variable or target (usually denoted by Y) and a series of other independent variables or features (usually denoted by X).
+**Regression** analysis attempts to predict one dependent variable or target (usually denoted by Y) and a series of other independent variables or features (usually denoted by X).
 
 # What Is Regression?
 Regression searches for relationships among variables.
@@ -65,15 +65,15 @@ Where m was a slope, and c was Intercept. In the first equation, b0 is the inter
 
 The slope of a line can be positive, negative, zero, or undefined.
 
-Positive slope: y increases as x increases, so the line slopes upwards to the right.
+**Positive slope**: y increases as x increases, so the line slopes upwards to the right.
 
-Negative slope: y decreases as x increases, so the line slopes downwards to the right. If you remember from the previous examples, we have seen an example of this, where the Age of the Car increases, the price decreases.
+**Negative slope**: y decreases as x increases, so the line slopes downwards to the right. If you remember from the previous examples, we have seen an example of this, where the Age of the Car increases, the price decreases.
 
-Zero slope: y does not change as x increases, so the line remains horizontal. The slope of any horizontal line is always zero.
+**Zero slope**: y does not change as x increases, so the line remains horizontal. The slope of any horizontal line is always zero.
 
-Undefined slope: When the line is exactly vertical, it does not have a defined slope. The two x coordinates are the same, so the difference is zero.
+**Undefined slope**: When the line is exactly vertical, it does not have a defined slope. The two x coordinates are the same, so the difference is zero.
 
-Multiple Linear Regression allows us to study the relationship between three or more variables.
+**Multiple Linear Regression** allows us to study the relationship between three or more variables.
 
 In Multiple Linear Regression two or more independent variables are used to predict the value of a dependent variable.
 
