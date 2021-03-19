@@ -61,7 +61,7 @@ In school, we became familiar with equations like the one shown below, then how 
 Well both are the same type of equation, we just changed the name of the variable and added something extra, the ‘e’ to minimize the chance of error.
 Where m was a slope, and c was Intercept. In the first equation, b0 is the intercept and b1 is the slope.
 
-# Slope direction
+# Types of Slope
 
 The slope of a line can be positive, negative, zero, or undefined.
 
